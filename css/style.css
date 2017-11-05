@@ -246,7 +246,7 @@ header .carousel-indicators li {
 .payoff{
 	overflow: hidden;
 	
-	min-height: 750px;
+	min-height: 550px;
 	background: url('../img/eventos.jpg');
 	background-position: center bottom;
 	background-repeat: repeat-x;
@@ -534,6 +534,18 @@ header .carousel-indicators li {
 header, .social{
 	background-position-y: 0px;
 	background-size: 200%;
+}
+
+.fotoPalestrante{
+	margin-top: 25px;
+}
+
+.juliano{
+	margin-top: 134px;
+}
+
+.cleiton{
+	margin-top: 96px;
 }
 
 .payoff{
